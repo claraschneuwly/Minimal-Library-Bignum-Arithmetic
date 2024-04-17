@@ -1,6 +1,6 @@
 # Minimal-Library-Bignum-Arithmetic
 
-Final project of course Logics and Proofs (CSE203) at Ecole Polytechnique.
+Final project for the course Logics and Proofs (CSE203) at Ecole Polytechnique.
 
 Minimal library for arbitrary-precision arithmetic on Coq (formal proofs management language).
 
